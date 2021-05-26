@@ -1,6 +1,6 @@
 # project information
 site_name: Get Started with cSRL
-site_url: https://learn-srlinux.github.io/getstarted-csrl/
+site_url: https://jerrodgerth.github.io/get-started/
 site_author: Jerrod Gerth
 site_description: >-
   Get started with Containerized SR Linux
@@ -18,8 +18,8 @@ nav:
   - Related Projects: related.md  
 
   # Repository
-repo_name: learn-srlinux/getstarted-csrl
-repo_url: https://github.com/learn-srlinux/getstarted-csrl
+repo_name: jerrodgerth/get-started
+repo_url: https://github.com/jerrodgerth/get-started
 edit_uri: ""
 
 # configuration
@@ -71,7 +71,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/learn-srlinux
+      link: https://github.com/jerrodgerth
 
 # Extensions
 markdown_extensions:
